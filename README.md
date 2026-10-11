@@ -1,4 +1,4 @@
-<hl align="center" width="40%">Kimo Tempest</hl>
+<hl align="center" width="60%">Kimo Tempest</hl>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/341091545?v=4" alt="Kimo Tempest" width="128"/>
