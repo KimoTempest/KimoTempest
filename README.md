@@ -4,7 +4,7 @@
   <clipPath id="circle"/>
     <circle cx="64" cy="64" r="64"/>
   </clipPath>
-  <image href="https://avatars.githubusercontent.com/u/341091545?v=4" width="128" height="128" clip-path="url(#circle)"/>
+  <image href="https://avatars.githubusercontent.com/u/341091545?v=4" width="128" height="128" clip-path="https://avatars.githubusercontent.com/u/341091545?v=4"/>
 </svg>
 
 <p align="center">
