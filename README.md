@@ -1,5 +1,5 @@
 <p align="center">
-  <hl align="center" width="300%">
+  <hl align="center" width="300%" y="-50">
     Kimo Tempest
   </hl>
   <img src="https://avatars.githubusercontent.com/u/341091545?v=4" alt="Kimo Tempest" width="128"/>
