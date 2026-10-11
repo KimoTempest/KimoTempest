@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <hl align="center" width="80%"<
+  <hl align="center" width="80%">
     Kimo Tempest
   </hl>
   <img src="https://avatars.githubusercontent.com/u/341091545?v=4" alt="Kimo Tempest" width="128"/>
