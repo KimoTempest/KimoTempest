@@ -1,1 +1,1 @@
-<img src="profile.svg" alt="Kimo Tempest" width="100%" />
+<img src="https://github.com/KimoTempest/KimoTempest/blob/main/profile.svg" alt="Kimo Tempest" width="100%" />
