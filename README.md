@@ -1,9 +1,12 @@
-<p align="center">
-  <hl align="top" width="300%">
-    Kimo Tempest
-  </hl>
-  <img src="https://avatars.githubusercontent.com/u/341091545?v=4" alt="Kimo Tempest" width="128"/>
-</p>
+## About me 👀
+I'm a 20 years old girl that's simply existing and doing things. (Fanatic of Yuri genre too.)
+
+Not much to say, lol.
+
+## Languages ✨
+Spanish (ES) - Native
+English (EN) - Fluid
+Japanese (JP) - Learning
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1529664876179-6d4aa5a02ae3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" alt="Asahikawa, Hokkaido, Japan" width="100%"/>
