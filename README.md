@@ -4,8 +4,8 @@ I'm a 20 years old girl that's simply existing and doing things. (Fanatic of Yur
 Not much to say, lol.
 
 ## Languages ✨
-Spanish (ES) - Native
-English (EN) - Fluid
+Spanish (ES) - Native,
+English (EN) - Fluid,
 Japanese (JP) - Learning
 
 <p align="center">
